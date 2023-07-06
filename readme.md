@@ -6,7 +6,6 @@ This repository contains a Jupyter Notebook that serves as a collection of solut
 
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Usage
 
@@ -28,6 +27,3 @@ Contributions are welcome and greatly appreciated! If you would like to contribu
 
 Please ensure that your contributions align with the repository's purpose and follow the existing structure and conventions.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and solutions provided here for personal or educational purposes.
